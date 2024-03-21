@@ -10,7 +10,7 @@
 
 - bash
 - Copy code
-- git clone https://github.com/raisak6022/todo.git
+- git clone https://github.com/raisak6022/Todo.git
 - Open index.html in your web browser.
 
 - Use the input field to add new tasks. Press Enter to add a task.
